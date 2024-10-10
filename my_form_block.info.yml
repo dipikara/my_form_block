@@ -1,0 +1,5 @@
+name: My Form Block
+type: module
+description: 'A custom module demonstrating PSR-4 autoloading.'
+package: Custom
+core_version_requirement: ^10 || ^9

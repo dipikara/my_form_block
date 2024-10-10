@@ -1,0 +1,11 @@
+{
+  "name": "my_form_block",
+  "description": "A custom form block",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Drupal\\my_form_block\\": "src/Plugin/Block/MyFormBlock"
+    }
+  }
+}
